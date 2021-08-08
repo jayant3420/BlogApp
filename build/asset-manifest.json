@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.84aa947a.chunk.css",
-    "main.js": "/static/js/main.3e329d9b.chunk.js",
-    "main.js.map": "/static/js/main.3e329d9b.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.86765f36.js",
-    "runtime-main.js.map": "/static/js/runtime-main.86765f36.js.map",
-    "static/css/2.85e68ca6.chunk.css": "/static/css/2.85e68ca6.chunk.css",
-    "static/js/2.8714379d.chunk.js": "/static/js/2.8714379d.chunk.js",
-    "static/js/2.8714379d.chunk.js.map": "/static/js/2.8714379d.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.85e68ca6.chunk.css.map": "/static/css/2.85e68ca6.chunk.css.map",
-    "static/css/main.84aa947a.chunk.css.map": "/static/css/main.84aa947a.chunk.css.map",
-    "static/js/2.8714379d.chunk.js.LICENSE.txt": "/static/js/2.8714379d.chunk.js.LICENSE.txt",
-    "static/media/arrow-down.96127461.svg": "/static/media/arrow-down.96127461.svg",
-    "static/media/arrow-right.28855ee7.svg": "/static/media/arrow-right.28855ee7.svg",
-    "static/media/gallery10.64922b69.jpg": "/static/media/gallery10.64922b69.jpg"
+    "main.css": "/BlogApp/static/css/main.264f097f.chunk.css",
+    "main.js": "/BlogApp/static/js/main.3fb76eb4.chunk.js",
+    "main.js.map": "/BlogApp/static/js/main.3fb76eb4.chunk.js.map",
+    "runtime-main.js": "/BlogApp/static/js/runtime-main.4e41af80.js",
+    "runtime-main.js.map": "/BlogApp/static/js/runtime-main.4e41af80.js.map",
+    "static/css/2.85e68ca6.chunk.css": "/BlogApp/static/css/2.85e68ca6.chunk.css",
+    "static/js/2.5435e2c6.chunk.js": "/BlogApp/static/js/2.5435e2c6.chunk.js",
+    "static/js/2.5435e2c6.chunk.js.map": "/BlogApp/static/js/2.5435e2c6.chunk.js.map",
+    "index.html": "/BlogApp/index.html",
+    "static/css/2.85e68ca6.chunk.css.map": "/BlogApp/static/css/2.85e68ca6.chunk.css.map",
+    "static/css/main.264f097f.chunk.css.map": "/BlogApp/static/css/main.264f097f.chunk.css.map",
+    "static/js/2.5435e2c6.chunk.js.LICENSE.txt": "/BlogApp/static/js/2.5435e2c6.chunk.js.LICENSE.txt",
+    "static/media/arrow-down.96127461.svg": "/BlogApp/static/media/arrow-down.96127461.svg",
+    "static/media/arrow-right.28855ee7.svg": "/BlogApp/static/media/arrow-right.28855ee7.svg",
+    "static/media/gallery10.64922b69.jpg": "/BlogApp/static/media/gallery10.64922b69.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.86765f36.js",
+    "static/js/runtime-main.4e41af80.js",
     "static/css/2.85e68ca6.chunk.css",
-    "static/js/2.8714379d.chunk.js",
-    "static/css/main.84aa947a.chunk.css",
-    "static/js/main.3e329d9b.chunk.js"
+    "static/js/2.5435e2c6.chunk.js",
+    "static/css/main.264f097f.chunk.css",
+    "static/js/main.3fb76eb4.chunk.js"
   ]
 }
