@@ -1,3 +1,3 @@
-const url = "https://blogappjayant.herokuapp.com";
+const url = "https://backendblogappjayant.herokuapp.com";
 
 module.exports = url;
